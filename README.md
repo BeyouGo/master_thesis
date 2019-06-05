@@ -5,7 +5,7 @@ This repository contains the code related to the master thesis " Alone in the Da
 
 All the experiement presented in the paper are available on the directory "final_scenarios/".
 
-They are python script which are based on the flows contain in the CSV files ( "/flow" ).
+They are python scripts which are based on the flows contained in the CSV files ( "/flows" ).
 
 A layer of abstraction is added using the structure "Dataset" in the file "Dataset.py"
 
