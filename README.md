@@ -1,5 +1,5 @@
-# master_thesis
-This repository contains the code related to the master thesis " Alone in the Dark: Encrypted Traffic Classification" 
+# Alone In The Dark: Encrpted Traffic Classification.
+This repository contains the code related to the master thesis " Alone in the Dark: Encrypted Traffic Classification." 
 
 # Running the code:
 
